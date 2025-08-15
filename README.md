@@ -1,4 +1,5 @@
 # 📄 SmartAIReader - RAG-based PDF Chatbot with Viewer
+https://smart-reader-ai-7676.vercel.app/
 
 A powerful AI assistant that lets users upload PDFs, view the document, and ask questions in natural language — powered by Retrieval-Augmented Generation (RAG), Jina Embeddings, and Pinecone.
 
